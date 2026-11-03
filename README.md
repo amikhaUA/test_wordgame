@@ -80,31 +80,31 @@ On macOS, you may need to run `python3 game.py` instead.
 Choose language:
 1. Svenska
 2. English
-3. Українська
+3. Українська (Ukrainian)
 Your choice 1-3: 1
 
 Word: _ _ _ _ _ _ _
-Attempts left: 8
+Attempts left: 7
 Guess a letter: e
 
 Word: e _ e _ _ _ _
-Attempts left: 8
+Attempts left: 6
 Guess a letter: l
 
 Word: e l e _ _ _ _
-Attempts left: 8
+Attempts left: 5
 Guess a letter: f
 
 Word: e l e f _ _ _
-Attempts left: 8
+Attempts left: 4
 Guess a letter: a
 
 Word: e l e f a _ _
-Attempts left: 8
+Attempts left: 3
 Guess a letter: n
 
 Word: e l e f a n _
-Attempts left: 8
+Attempts left: 2
 Guess a letter: t
 
 Congrats! You guessed the word 'elefant'!
