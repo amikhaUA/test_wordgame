@@ -55,10 +55,8 @@ On macOS, you may need to use `python3` instead of `python`.
 Run the Python file:
 
 ```bash
-python game.py
+wordgame test 1_1.py
 ```
-
-On macOS, you may need to run `python3 game.py` instead.
 
 **Step 1:** Choose your language.
 
@@ -66,7 +64,7 @@ On macOS, you may need to run `python3 game.py` instead.
 2. English
 3. Українська
 
-**Step 2:** The program randomly selects a secret word.
+**Step 2:** The program randomly selects a secret word (not just nouns)
 
 **Step 3:** Guess one letter at a time.
 
