@@ -31,7 +31,7 @@ The game uses the **wordfreq** library to select random words from each language
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/word-guessing-game.git
+git clone https://github.com/your-username/test_wordgame.git
 ```
 
 > Replace `your-username` with your actual GitHub username.
